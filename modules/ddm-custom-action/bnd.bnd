@@ -1,0 +1,11 @@
+Bundle-Name: ddm-custom-action
+Bundle-SymbolicName: ddm.custom.action
+Bundle-Version: 1.0.0
+Import-Package:\
+	!net.spy.memcached.*,\
+	\
+	!org.apache.avalon.framework.logger.*,\
+	\
+	!org.apache.log.*,\
+	\
+	*
